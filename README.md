@@ -1,16 +1,22 @@
-# student_resstest
+# 📝 Task To List
 
-A new Flutter project.
+## 👤 الطالب
+**الاسم:** منتصر عبدالله محمد سعيد  
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📌 وصف المشروع
+تطبيق Flutter بسيط لإدارة المهام (CRUD) يمكن من خلاله:
+- إضافة مهمة جديدة
+- تعديل مهمة
+- حذف مهمة
+- عرض جميع المهام  
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 طريقة التحميل والتشغيل
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 1. تحميل المشروع
+```bash
+git clone https://github.com/mhmdALhilali/task_to_list.git
+cd task_to_list
